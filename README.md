@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @olwalter
-- 👀 I’m interested in Data Engineering, Scientific Computing, Native Cloud Development
+- 👀 I’m interested in Data Engineering, Scientific Computing, Native Cloud Development,
+- and Amateur Radio 
 
 <!---
 - 🌱 I’m currently learning Spark and RF Electronics
